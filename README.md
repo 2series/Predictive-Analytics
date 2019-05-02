@@ -1,11 +1,11 @@
-## Predictive Analytics for Business Nanodegree
 
-This repository contains projects for Udacity's [Predictive Analytics for Business Nanodegree](https://www.udacity.com/course/business-analyst-nanodegree--nd008).
+
+
 
 ## About The Analysis
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
-### Project 1 - [Problem Solving With Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+### Project 1 - [Problem Solving With Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 
 - Project: [Predicting Diamond Prices](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.1-Predicting-Diamond-Price.ipynb)
 
@@ -14,7 +14,7 @@ Learn a structured framework for solving problems with advanced analytics. Learn
 ## About The Analysis
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
-### Project 2 - [Creating An Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+### Project 2 - [Creating An Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 
 - Project: [Data Cleanup](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2-Creating-an-Analytical-Dataset/2.1-Data-Cleanup.ipynb)
 
@@ -30,7 +30,7 @@ Understand the importance of data visualization. Know how different data types a
 ## About The Analysis
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-### Project 4 - [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
+### Project 4 - [Classification Models](https://www.udacity.com/course/classification-models--ud978)
 
 - Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynb)
 
