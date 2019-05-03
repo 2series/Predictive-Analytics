@@ -1,6 +1,6 @@
 ## Predicitve Analytics For Business
 
-![](https://gph.is/2AoFrW4)
+![](https://media.giphy.com/media/2bYewTk7K2No1NvcuK/giphy.gif)
 
 ### About The Analysis
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
